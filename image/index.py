@@ -4,8 +4,8 @@ import requests
 import easygui
 from sympy import im
 
-AZURE_API_KEY = "GB5XtDKii3M2qBOPsSAQtR3CEyzbbbF1ZgCQU0uc0MvvuCloLQIpJQQJ99BEACfhMk5XJ3w3AAAAACOG9438"
-AZURE_ENDPOINT = "https://10227-maawb1pl-swedencentral.openai.azure.com/openai/deployments/dall-e-3/images/generations?api-version=2024-02-01"
+AZURE_API_KEY = "A"
+AZURE_ENDPOINT = "B"
 header = {
     "Content-Type": "application/json",
     "Authorization": f"Bearer {AZURE_API_KEY}"
