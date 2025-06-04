@@ -1,0 +1,9 @@
+__pycache__
+.cache
+.venv
+local
+models
+sessions
+voices
+hubert_base.pt
+rmvpe.pt
